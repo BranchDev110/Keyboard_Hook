@@ -1,0 +1,17 @@
+{
+    "Name": "110 - Branch",
+    "Company": "HopanaTech",
+    "Date": "2022.10.10",
+    "Text": [
+        {
+            "Name": "Cover Letter",
+            "Data": "I took some time to familiarize myself with your company and the website to get a better understanding of how my skills can be used in your company.\r\nYour business idea is very exciting and I am very interested in this position.\r\nAs a senior software engineer with more than 10 years of experience in web/mobile development, I have demonstrated a history of excellence throughout multiple contracts with several companies and freelance positions with a focus on Full Stack Development and Engineering.\r\nAs you can see on my profile, I worked as a software engineer at various Software Development Agencies.\r\nDuring that time, I got rich experience in various programming languages, frameworks, and libraries.\r\nI am a big fan of Javascript, so for the last 10 years, I am focused on full-stack development using several Javascript frameworks and libraries like React/Next.js, Vue/Nuxt.js, AngularJS/Angular for frontend development, NodeJS based frameworks like Express, and so on.\r\nAlso, I have some valuable experience in Python.\r\nMoreover, I am a pro-active team player, fast learner, and problem-solver.\r\nI love what I do and I do what I love.\r\nNo matter what I am working on I am very invested. In my previous teams, mostly, we used to follow the agile methodology.\r\nCommunication is the cornerstone of the success of a project, as you know.\r\nThis is why I always emphasize the importance of listening carefully to the requirements and details.\r\nWe used to communicate with the teammates using Slack and for project management, we used Jira and Trello.\r\nOutside of work, I enjoy playing football and listening to music.\r\nI find that music is a wonderful creative outlet and stress-reliever, as well as a perfect balance for my demanding career.\r\nThat’s me.\r\nI am ready to get the ball rolling.\r\nLooking forward to hearing from you very soon.\r\nThanks,Steven",
+            "Hotkey": "t"
+        },
+        {
+            "Name": "Email1",
+            "Data": "Hi!\r\nThanks for reaching out to me!\r\nI'm very interested in this position.\r\n\r\nIs it 100% remote job?\r\nIf so, please tell me the interview process.\r\n\r\nRegards.\r\nSteven",
+            "Hotkey": "r"
+        }
+    ]
+}
